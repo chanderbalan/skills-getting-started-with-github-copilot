@@ -207,3 +207,15 @@ If you don't get feedback, here are some things to check:
 - Make sure your pushed the `src/app.py` file changes to the branch `accelerate-with-copilot`.
 
 </details>
+
+### Sports activities
+- Soccer
+- Rock climbing
+
+### Artistic activities
+- Pottery
+- Digital collage
+
+### Intellectual activities
+- Sudoku
+- Chess puzzles
